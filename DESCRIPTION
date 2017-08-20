@@ -1,0 +1,13 @@
+Package: buildr
+Type: Package
+Title: Coursera Build an r package
+Version: 0.1.0
+Author: Wsbf
+Maintainer: sbf@gmail.com
+Description: Build r Coursera Assignment.
+License: GNU License
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
